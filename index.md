@@ -9,6 +9,13 @@ Hey there! I'm Mishal Abdullah—an innovative force in the realms of web2 and w
 ```
 hugo serve
 ```
+
+# List In Markdown
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] Complate All github stuff
 # 💻 Tech Tools
 
 
