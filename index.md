@@ -4,6 +4,11 @@ Hey there! I'm Mishal Abdullah—an innovative force in the realms of web2 and w
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+
+## Cammand used for running the hugo server
+```
+hugo serve
+```
 # 💻 Tech Tools
 
 
